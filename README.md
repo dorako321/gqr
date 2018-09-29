@@ -22,3 +22,6 @@ Also, you can set the message to use pipe command.
 ```
 $ echo "bar" | gqr
 ```
+
+## License
+MIT
