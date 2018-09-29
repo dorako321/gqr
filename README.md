@@ -1,5 +1,5 @@
 # gqr
-`gqr` shows QR code what you made in your terminal.
+`gqr` generates and shows QR code in your terminal.
 
 [![Build Status](https://travis-ci.com/dorako321/gqr.svg?branch=master)](https://travis-ci.com/dorako321/gqr)
 
