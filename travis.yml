@@ -1,0 +1,8 @@
+language: go
+
+install:
+- go get -u github.com/golang/lint/golint
+
+script:
+- go vet .
+- diff <(golint .) <(printf "")
